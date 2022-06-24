@@ -8,5 +8,6 @@ public class HelloWorld {
 
         System.out.println("第三次修改,hello");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }

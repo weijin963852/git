@@ -11,5 +11,7 @@ public class HelloWorld {
         System.out.println("hot-fix test");
         System.out.println("push test");
         int m = 10;
+
+        int n = 20;
     }
 }
